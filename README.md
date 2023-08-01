@@ -1,2 +1,2 @@
-# profiles2
+# https://eleanorex.github.io/profiles2/
  
