@@ -1,0 +1,122 @@
+body {
+    background: #191e2f;
+}
+
+section {
+    position: relative;
+    height: 500px;
+    width: 400px;
+    background: #262e47;
+}
+
+img {
+    position: absolute;
+    height: 200px;
+    left: 100px;
+    top: 60px;
+}
+
+h1 {
+    position: absolute;
+    color: white;
+    left: 90px;
+    top: 250px;
+    font-size: 30px;
+}
+
+.lorem {
+    position: absolute;
+    width: 240px;
+    color: #6675a2;
+    top: 330px;
+    left: 100px;
+}
+
+.yellow {
+    position: absolute;
+    background: gold;
+    width: 140px;
+    height: 5px;
+    top: 400px;
+}
+
+.green {
+    position: absolute;
+    background: lightseagreen;
+    width: 140px;
+    height: 5px;
+    top: 400px;
+    left: 130px;
+}
+
+.red {
+    position: absolute;
+    background: red;
+    width: 140px;
+    height: 5px;
+    top: 400px;
+    left: 260px;
+}
+
+.first {
+    position: absolute;
+    height: 95px;
+    width: 1px;
+    background: #000;
+    top: 405px;
+    left: 129px;
+}
+
+.second {
+    position: absolute;
+    height: 95px;
+    width: 1px;
+    background: #000;
+    top: 405px;
+    left: 260px;
+}
+
+.speech {
+    height: 35px;
+    position: absolute;
+    top: 430px;
+    left: 20px;
+}
+
+.ile {
+    position: absolute;
+    top: 435px;
+    left: 70px;
+    font-size: 20px;
+    color: white;
+}
+
+.eyes {
+    height: 35px;
+    position: absolute;
+    top: 430px;
+    left: 150px;
+}
+
+.prosm {
+    position: absolute;
+    top: 435px;
+    left: 200px;
+    font-size: 20px;
+    color: white;
+}
+
+.love {
+    height: 35px;
+    position: absolute;
+    top: 430px;
+    left: 290px;
+}
+
+.lovekol {
+    position: absolute;
+    top: 435px;
+    left: 340px;
+    font-size: 20px;
+    color: white;
+}
